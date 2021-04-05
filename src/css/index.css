@@ -22,7 +22,8 @@
 }
 
 html {
-	font: var(--font-size) var(--font-family-body);
+	font-size: var(--font-size);
+	font-family: var(--font-family-body);
 }
 
 body {
